@@ -1,0 +1,8 @@
+{
+  "name": "EMI Calculator System",
+  "description": "A professional financial calculator application for calculating monthly loan EMIs, interest breakdown, and amortization schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
